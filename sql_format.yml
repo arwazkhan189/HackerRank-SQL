@@ -1,0 +1,2 @@
+- name: Reformat SQL Files
+  uses: credfeto/action-sql-format@v1.2
