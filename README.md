@@ -15,7 +15,6 @@ Follow me on **HackerRank** [Click here!](https://www.hackerrank.com/arwazkhan18
 
 # List of Problems
 
-
 | S.No. |         Problem              | Subdomain    | Problem Link|
 |-------| ---------------------------- | ------------ | ----------- |
 | 1 | Revising the Select Query I  | Basic Select | [Link](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|
@@ -33,3 +32,13 @@ Follow me on **HackerRank** [Click here!](https://www.hackerrank.com/arwazkhan18
 | 13 | Weather Observation Station 8  | Basic Select | [Link](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) |
 | 14 | Weather Observation Station 9  | Basic Select | [Link](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) |
 | 15 | Weather Observation Station 10  | Basic Select | [Link](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) |
+
+---
+
+# Useful material to solve queries
+
+### REGEXP TABLE
+<p align='center'>
+ <img align='center' width='800' height='600' src='https://github.com/arwazkhan189/HackerRank-SQL/blob/main/Tables/regexp_sql.png' alt='regexp table'>
+ 
+</p>
