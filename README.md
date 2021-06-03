@@ -9,8 +9,8 @@ Follow me on **HackerRank** [Click here!](https://www.hackerrank.com/arwazkhan18
 <p align='center'>
  1 to 6
 <img align='center' width='200' height='200' src='https://github.com/arwazkhan189/HackerRank-SQL/blob/main/Tables/Table-1.jpg' alt='1-6'>
- 7 to 16  
-<img align='center' width='200' height='200' src='https://github.com/arwazkhan189/HackerRank-SQL/blob/main/Tables/Table-2.jpg' alt='7-16'>
+ 7 to 17  
+<img align='center' width='200' height='200' src='https://github.com/arwazkhan189/HackerRank-SQL/blob/main/Tables/Table-2.jpg' alt='7-17'>
 </p>
 
 # List of Problems
@@ -33,6 +33,7 @@ Follow me on **HackerRank** [Click here!](https://www.hackerrank.com/arwazkhan18
 | 14 | Weather Observation Station 9  | Basic Select | [Link](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) |
 | 15 | Weather Observation Station 10  | Basic Select | [Link](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) |
 | 16 | Weather Observation Station 11  | Basic Select | [Link](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) |
+| 17 | Weather Observation Station 12  | Basic Select | [Link](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) |
 
 ---
 
