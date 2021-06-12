@@ -5,22 +5,6 @@ Follow me on **HackerRank** [Click here!](https://www.hackerrank.com/arwazkhan18
 
 > SQL  <!--<code><img align="center" height='100' src='' alt="SQL"/></code>-->
 
-# Table used
-<p align='center'>
- 1 to 6
-<img align='center' width='200' height='200' src='https://github.com/arwazkhan189/HackerRank-SQL/blob/main/Tables/Table-1.jpg' alt='1-6'>
- 7 to 17  
-<img align='center' width='200' height='200' src='https://github.com/arwazkhan189/HackerRank-SQL/blob/main/Tables/Table-2.jpg' alt='7-17'>
- 
- 18
- <img align='center' width='200' height='200' src='https://github.com/arwazkhan189/HackerRank-SQL/blob/main/Tables/Table-3.png' alt='18'>
- <img align='center' width='200' height='200' src='https://github.com/arwazkhan189/HackerRank-SQL/blob/main/Tables/Table-4.png' alt='18'>
- 
- 19 to 20
- <img align='center' width='200' height='200' src='https://github.com/arwazkhan189/HackerRank-SQL/blob/main/Tables/Table-5.png' alt='19-20'>
- <img align='center' width='200' height='200' src='https://github.com/arwazkhan189/HackerRank-SQL/blob/main/Tables/Table-6.png' alt='19-20'>
-</p>
-
 # List of Problems
 
 | S.No. |         Problem              | Subdomain    | Problem Link|
