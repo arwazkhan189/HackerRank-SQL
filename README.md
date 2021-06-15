@@ -29,6 +29,7 @@ Follow me on **HackerRank** [Click here!](https://www.hackerrank.com/arwazkhan18
 | 18 | Higher Than 75 Marks | Basic Select | [Link](https://www.hackerrank.com/challenges/more-than-75-marks/problem) |
 | 19 | Employee Names | Basic Select | [Link](https://www.hackerrank.com/challenges/name-of-employees/problem) |
 | 20 | Employee Salaries  | Basic Select | [Link](https://www.hackerrank.com/challenges/salary-of-employees/problem) |
+| 21 | Type of Triangle  | Advanced Select | [Link](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) |
 
 ---
 
